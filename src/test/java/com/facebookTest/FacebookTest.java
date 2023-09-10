@@ -27,5 +27,6 @@ public class FacebookTest {
 		WebDriverManager.edgedriver().setup();
 		driver = new EdgeDriver();
 		driver.get("https://www.facebook.com/");
+		
 	}
 }
